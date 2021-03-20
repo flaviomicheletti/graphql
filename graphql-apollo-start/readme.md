@@ -8,3 +8,6 @@ first completing the [full-stack tutorial](https://www.apollographql.com/docs/tu
 https://www.apollographql.com/docs/apollo-server/getting-started/
 
 http://localhost:4000/
+
+
+![](execute-your-first-query.PNG)
