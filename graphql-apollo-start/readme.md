@@ -9,5 +9,4 @@ https://www.apollographql.com/docs/apollo-server/getting-started/
 
 http://localhost:4000/
 
-
-![xecute-your-first-query.PNG]
+![execute-your-first-query.PNG]()
