@@ -25,7 +25,7 @@ Result
     }
 
 
-## Terminal
+## Testing on Terminal
 
     curl -X POST \
     -H "Content-Type: application/json" \
@@ -35,3 +35,17 @@ Result
 Result
 
     {"data":{"hello":"Hello world!"}}
+
+
+## Client
+
+  fetch('/graphql', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Accept': 'application/json',
+    },
+    body: JSON.stringify({query: "{ hello }"})
+  })
+    .then(r => r.json())
+    .then(data => console.log('data returned:', data));
