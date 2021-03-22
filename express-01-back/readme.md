@@ -7,7 +7,7 @@ https://graphql.org/graphql-js/running-an-express-graphql-server/
 
     npm i
     npm start
-    http://localhost:4000/
+    http://localhost:4000/graphql
 
 
 Query
@@ -49,3 +49,10 @@ Result
   })
     .then(r => r.json())
     .then(data => console.log('data returned:', data));
+
+
+### Next
+
+https://www.apollographql.com/docs/apollo-server/v1/example/
+
+
