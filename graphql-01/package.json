@@ -1,0 +1,22 @@
+{
+  "name": "graphql_quickstart",
+  "version": "1.0.0",
+  "description": "GraphQL Quickstart Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echovue/graphQL_Quickstart.git"
+  },
+  "author": "Mike Mackrory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/echovue/graphQL_Quickstart/issues"
+  },
+  "homepage": "https://github.com/echovue/graphQL_Quickstart#readme",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
+}
