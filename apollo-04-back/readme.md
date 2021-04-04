@@ -1,4 +1,4 @@
-# Apollo Graphql Mutation (first)
+# Apollo GraphQL Mutation (first)
 
 Primeiro exemplo de __mutation__ baseado no seguinte repo abaixo:
 

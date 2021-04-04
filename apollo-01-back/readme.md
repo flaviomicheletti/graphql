@@ -1,4 +1,4 @@
-# Apollo Graphql Getting Started
+# Apollo GraphQL Getting Started
 
 This tutorial walks you through installing and configuring Apollo Server. 
 

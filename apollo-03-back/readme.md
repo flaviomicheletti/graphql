@@ -1,4 +1,4 @@
-# Apollo Graphql Schema basics
+# Apollo GraphQL Schema basics
 
 Baseado no exemplo anterior eu tentei me aproximar do repo abaixo:
 

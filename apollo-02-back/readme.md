@@ -1,4 +1,4 @@
-# Apollo Graphql Schema basics
+# Apollo GraphQL Schema basics
 
 https://www.apollographql.com/docs/apollo-server/schema/schema/
 

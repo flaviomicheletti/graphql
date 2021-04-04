@@ -1,4 +1,4 @@
-# Graphql
+# GraphQL with Express
 
 The simplest way to run a GraphQL API server is to use Express, 
 a popular web application framework for Node.js
