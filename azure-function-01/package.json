@@ -1,0 +1,13 @@
+{
+  "name": "graphql-function",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "start": "func start --port:7072",
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "apollo-server-azure-functions": "^2.19.1"
+  }
+}
