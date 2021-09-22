@@ -29,4 +29,4 @@ Baseado no exemplo anterior eu tentei me aproximar do repo abaixo:
 
 ## Postman
 
-![](print-postman.png)
+![print-postman](https://user-images.githubusercontent.com/1257048/134265790-9e157a61-7173-4139-b646-22e55b940e55.png)
